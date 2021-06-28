@@ -1,5 +1,29 @@
- h1 { 
-     border:2px solid purple;
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(48, 7, 89);
+    font-size: large;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: flex-start;
 }
 
- h1 {color:rebeccapurple}
+header {
+    padding: 10px;
+    text-align: left;
+    background: #7ee9f5;
+    color: rgb(66, 5, 120);
+  }
+
+.section { 
+    padding: 40px;
+    width: 200px;
+    height: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#list-item {
+    text-align: left;
+}
+    
