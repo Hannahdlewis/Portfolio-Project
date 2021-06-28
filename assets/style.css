@@ -1,3 +1,5 @@
- header { 
-     border: 2px solid purple;
+ h1 { 
+     border:2px solid purple;
 }
+
+ h1 {color:rebeccapurple}
