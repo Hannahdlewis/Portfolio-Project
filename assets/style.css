@@ -27,3 +27,17 @@ header {
     text-align: left;
 }
     
+/* large smart phones - nav bar changes color */
+@media screen {max-width: 250px;
+    
+}
+
+/* tablets-header changes color */
+@media screen {max-width: 992px;
+    
+}
+
+/* small smartphones - image placeholders change color */
+@media screen {max-width: 576px;
+    
+}
