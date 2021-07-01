@@ -11,6 +11,7 @@ header {
 h1 {
     text-align: center;
     line-height: 25px;
+  
   }
 
 #photo {
@@ -33,7 +34,7 @@ h1 {
 }
 
 section2 {
-    position: relative;
+    
     border-style: none;
     border-width: 1px;
     padding: 10px;
