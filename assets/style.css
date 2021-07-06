@@ -15,6 +15,11 @@ header {
   color: #ffffff;  
 }
 
+header h1 {
+  display: inline-block;
+  font-size: 48px;
+}
+
 
 /* original styling below, new styling above */
 
