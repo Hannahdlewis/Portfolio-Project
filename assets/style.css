@@ -20,7 +20,9 @@ header h1 {
   font-size: 48px;
 }
 
-
+#firstimage {
+  background-image: url();
+}
 
 
 /* original styling below, new styling above */
