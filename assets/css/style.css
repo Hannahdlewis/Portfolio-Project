@@ -1,7 +1,7 @@
 
 /* original styling below, new styling above */
 
-header {
+.menu {
     height: 50px;
     width: 100%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -17,7 +17,7 @@ h1 {
   
   }
 
-.firstimage {
+#firstimage {
     margin-bottom: 0;
     margin-top: 15px;
     margin-left: 84%;
