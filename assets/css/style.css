@@ -33,7 +33,10 @@ h1 {
   margin: auto;
 }
 
-
+footer {
+  list-style: none;
+  text-align: center;
+}
 
 
 
