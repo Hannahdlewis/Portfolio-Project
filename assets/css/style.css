@@ -17,15 +17,24 @@ h1 {
   
   }
 
-#firstimage {
-    margin-bottom: 0;
-    margin-top: 15px;
-    margin-left: 84%;
-    margin-right: 0px;
-    padding: 10px;
-    background-color: grey;
-    border: 5px solid rgb(65, 7, 119);
+#fistimage {
+  width: auto;
+  height: auto;
+  max-width: 30%;
+  max-height: 55%;
+  margin: auto;
 }
+
+.placeholder1 {
+  width: auto;
+  height: auto;
+  max-width: 30%;
+  max-height: 55%;
+  margin: auto;
+}
+
+
+
 
 
 
