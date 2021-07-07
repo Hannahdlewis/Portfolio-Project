@@ -27,7 +27,15 @@ h1 {
     border: 5px solid rgb(65, 7, 119);
 }
 
+.placeholder {
+  margin-top: 15px;
+  border-style: none;
+  border-width: 1px;
+  padding: 10px;
+  float: left;
+  width: 25%;
 
+}
 
 .menu {
     border-style: solid;
