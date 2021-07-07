@@ -43,8 +43,12 @@ ul, li {
   list-style-type:none;
 }
 
-
-
+.aboutme {
+  width: 300px;
+  border: 15px solid rgba(9, 3, 45, 0.475);
+  padding: 50px;
+  margin: 20px;
+}
 
 
 
